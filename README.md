@@ -28,7 +28,7 @@ External Libraries used:
 •	WARC ArchiveReader
 
 
-<b>Broad Features of the program:</b
+<b>Broad Features of the program:</b>
 
 Query Processor:
 
